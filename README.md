@@ -1,2 +1,2 @@
 # css-slider
-Slider em tela cheia com CSS puro.
+Slider em tela cheia com CSS.
